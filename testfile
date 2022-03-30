@@ -3,5 +3,8 @@ salam 2
 salam 3
 dev 1
 dev 2
+<<<<<<< HEAD
 dev 5
+=======
+>>>>>>> 04283c04c1005c55eb8b671e37b8d059ea36da38
 test 5
